@@ -1,0 +1,6 @@
+#pragma once
+
+// Copy this file to CLEAR_Teacher_Config.h. Wi-Fi is optional.
+// When both lines are filled in, the teacher clock can set itself from the network.
+#define CLEAR_WIFI_SSID ""
+#define CLEAR_WIFI_PASSWORD ""
